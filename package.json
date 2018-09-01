@@ -1,0 +1,29 @@
+{
+  "name": "markdown-it-template-literals",
+  "version": "1.0.0",
+  "description": "`${template} literals for markdown-it`",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arve0/markdown-it-template-literals.git"
+  },
+  "keywords": [
+    "template",
+    "string",
+    "markdown",
+    "commonmark"
+  ],
+  "author": "Arve Seljebu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arve0/markdown-it-template-literals/issues"
+  },
+  "homepage": "https://github.com/arve0/markdown-it-template-literals#readme",
+  "devDependencies": {
+    "markdown-it": "^8.4.2"
+  },
+  "runkitExample": "demo.js"
+}
